@@ -7,4 +7,6 @@ O SON permite que todas as pessoas utilizem a impressora sem estar fisicamente l
 3- É para que os outros utilizadores não tentem invadir contas de outros.
 
 4- Porque todos os computadores da empresa estão ligados a uma SON gerida por um servidor com Windows Server 2022. Neste servidor estão configurados. O SON permite que todas
-as pessoas 
+as pessoas utilizam a impressora sem estar fisicamente ligada a ela. A impressora é instalada e partilhada através do servidor.
+
+5- Porque o SON dá a cada utilizador uma password e um nome específico, por isso, se um utilizador entrar com uma password diferente do normal, vai detetar logo que o próprio não tem acesso autorizado.
