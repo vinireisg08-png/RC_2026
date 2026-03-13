@@ -1,1 +1,10 @@
+1- O SON tem 3 funções neste cenário. Permite que os utilizadores de rede acedam a pastas e ficheiros armazenados num servidor ou noutro computador;
+Permite aplicar políticas de segurança, como bloqueio de contas após várias tentativas de login;
+O SON permite que todas as pessoas utilizem a impressora sem estar fisicamente ligado a ela.
 
+2- Se um funcionário da Prodrução tentar entrar numa pasta do departamento do RH, bloqueia-o pois precisa de permissões específicas.
+
+3- É para que os outros utilizadores não tentem invadir contas de outros.
+
+4- Porque todos os computadores da empresa estão ligados a uma SON gerida por um servidor com Windows Server 2022. Neste servidor estão configurados. O SON permite que todas
+as pessoas 
